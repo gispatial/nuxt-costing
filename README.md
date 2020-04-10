@@ -37,7 +37,7 @@ $ npm start
 ## Todo
 
 - [x] Fix link and views
-- [x] Updgrade to latest NuxtJS boilerplate
+- [x] Upgrade to latest NuxtJS boilerplate
 - [x] Using Express as server
 - [x] Move installation to Vue CLI
 - [x] Extend SCSS to Style Resources
