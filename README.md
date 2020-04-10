@@ -1,4 +1,4 @@
-![Nuxt Netquest Costing Project](nuxtcoreui.jpg)
+![Nuxt Netquest Costing Project](https://github.com/gispatial/nuxt-costing/blob/master/assets/costing.png)
 
 # NuxtJS + CoreUI
 
