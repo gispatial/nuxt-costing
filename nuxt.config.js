@@ -15,7 +15,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Nuxt CoreUI',
+    title: 'Nuxt Costing Dashboard : CoreUI',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
