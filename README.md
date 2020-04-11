@@ -6,7 +6,7 @@ Unofficial Nuxt + Netquest Costing Project,
 
 ## Usage
 
-If you want to use this nuxt-template-dashboard, make sure you already installed [NodeJS](https://nodejs.org/en/) and [Vue CLI](https://www.npmjs.com/package/vue-cli) on your local machine. And then, you can use below command to deploy it production/ build.
+If you want to use this nuxt-template-dashboard, make sure you already installed [NodeJS](https://nodejs.org/en/) and [Vue CLI](https://www.npmjs.com/package/vue-cli) on your local machine this is default values w/o axios yet install. For referrence on installing Axios please check [Axios-Nuxt](https://axios.nuxtjs.org/setup.html). And then, you can use below command to deploy it production/ build.
 
 ``` bash
 
