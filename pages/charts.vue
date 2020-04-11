@@ -1,32 +1,32 @@
 <template>
   <div class="animated fadeIn">
     <b-card-group columns class="card-columns cols-2">
-      <b-card header="Line Chart">
+      <b-card header="Daily Margin Reports">
         <div class="chart-wrapper">
           <line-example/>
         </div>
       </b-card>
-      <b-card header="Bar Chart">
+      <b-card header="Costing Project Chart">
         <div class="chart-wrapper">
           <bar-example/>
         </div>
       </b-card>
-      <b-card header="Doughnut Chart">
+      <b-card header="Montly Project Chart">
         <div class="chart-wrapper">
           <doughnut-example/>
         </div>
       </b-card>
-      <b-card header="Radar Chart">
+      <b-card header="Costing Percentage Chart">
         <div class="chart-wrapper">
           <radar-example/>
         </div>
       </b-card>
-      <b-card header="Pie Chart">
+      <b-card header="Revenue Per Month">
         <div class="chart-wrapper">
           <pie-example/>
         </div>
       </b-card>
-      <b-card header="Polar Area Chart">
+      <b-card header="Order Received">
         <div class="chart-wrapper">
           <polar-area-example/>
         </div>

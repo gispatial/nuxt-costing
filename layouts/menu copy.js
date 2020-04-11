@@ -38,24 +38,15 @@ export default {
       }
     },
     {
-      name: 'Reports',
+      name: 'Daily Costing Reports',
       url: '/charts',
       icon: 'icon-pie-chart',
       children: [
         {
-          name: 'Daily Profit',
-          url: '/charts',
-          icon: 'icon-pie-chart'
-        },{
-          name: 'Monthly Profit',
+          name: 'Daily Profit Reports',
           url: '/charts',
           icon: 'icon-pie-chart'
         },
-          {
-            name: 'Yearly Profit',
-            url: '/charts',
-            icon: 'icon-pie-chart'
-          },
       ]
     },
     {
