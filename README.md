@@ -6,7 +6,22 @@ Unofficial Nuxt + Netquest Costing Project,
 
 ## Usage
 
+<<<<<<< Updated upstream
 If you want to use this nuxt-template-dashboard, make sure you already installed [NodeJS](https://nodejs.org/en/) and [Vue CLI](https://www.npmjs.com/package/vue-cli) on your local machine this is default values w/o axios yet install. For referrence on installing Axios please check [Axios-Nuxt](https://axios.nuxtjs.org/setup.html). And then, you can use below command to deploy it production/ build.
+=======
+If you want to use this nuxt-template-dashboard, make sure you already installed [NodeJS](https://nodejs.org/en/) and [Vue CLI](https://www.npmjs.com/package/vue-cli) on your local machine. And then, you can use below command to deploy it production/ build.<p></p>
+Newly added yarn dependency:<br>
+"axios": "^0.18",<br>
+"bootstrap": "^4.0.0",<br>
+"popper.js": "^1.12",<br>
+"cross-env": "^5.1",<br>
+"jquery": "^3.2",<br>
+"laravel-mix": "^2.0",<br>
+"lodash": "^4.17.5",<br>
+"vue": "^2.5.7",<br>
+"vuex": "^3.0.1"<br>
+}<br>
+>>>>>>> Stashed changes
 
 ``` bash
 
